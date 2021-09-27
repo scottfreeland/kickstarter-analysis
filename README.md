@@ -8,5 +8,5 @@ Here's a look at the success various kickstarters achieved based on the beginnin
 And here is a look at the success various kickstarters achieved based on the parent category for which the campaign fell into.
 ![Plot of Outcome Based on Parent Category](Parent_Category_Outcomes.png)
 ## Outcomes vs Goals
-This is a visual depicting the success that various "play" kickstarters found throughout the duration of time in which this data was collected, based on the "Goal" amount of money they aimed to bring in throughout their kickstarter campaigns. It displays the various ranges of "Goal" money the kickstarters would aim for, and shows the success that each range of "Goal" parameters experienced relative to plays that were either canceled or failed.
+This is a visual depiction of the ratio of various outcomes for kickstarters based on the "Goals" that each kickstarter set before launching their respective campaigns.  Various "play" kickstarters set goals to bring in a certain amount of money by the end of their campaigns. The horizontal axis is constituted of various ranges of these "Goal" amounts. The vertical axis displays what proportion that successful, failed, and canceled kickstarters comprised relative to one another, based on the range of where their goals fell, set when they launched.
 ![Plot of Success Based on Outcomes vs Goals](Outcomes_vs_Goals.png)
