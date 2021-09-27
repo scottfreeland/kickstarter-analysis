@@ -1,1 +1,2 @@
 Kickstarter_info.xlsx filter=lfs diff=lfs merge=lfs -text
+kickstarter_analysis.xlsx filter=lfs diff=lfs merge=lfs -text
