@@ -9,4 +9,4 @@ And here is a look at the success various kickstarters achieved based on the par
 ![Plot of Outcome Based on Parent Category](Parent_Category_Outcomes.png)
 ## Outcomes vs Goals
 This is a visual depiction of the ratio of various outcomes for kickstarters based on the "Goals" that each kickstarter set before launching their respective campaigns.  Various "play" kickstarters set goals to bring in a certain amount of money by the end of their campaigns. The horizontal axis is constituted of various ranges of these "Goal" amounts. The vertical axis displays what proportion that successful, failed, and canceled kickstarters comprised relative to one another, based on the range of where their goals fell, set when they launched.
-![Plot of Ratio of Outcomes vs Goals](Outcomes_vs_Goals.png) 
+![Plot of Ratio of Outcomes vs Goals](Outcomes_vs_Goals.png)
